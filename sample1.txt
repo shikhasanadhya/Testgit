@@ -1,2 +1,3 @@
 hello git 
 It's sample1 file
+updates are available
